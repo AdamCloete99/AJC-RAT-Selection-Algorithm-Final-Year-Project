@@ -8,3 +8,5 @@ Input data (Supplier selection) contains the network attributes (C4:F7), service
 The normalised weights from the network attributes (C22:F25) and combined normalised weights of service characteristics and user preferences (AA3:AL103) from input data (Supplier selection) are what is used in the decision making MATLAB code.
 
 CC results (Supplier selection) contain the results from the algorithm. The first choice (B2:CZ4), second choice (B6:CZ8) and third choice (B10:CZ12) RATs are weighed up into the conditionary tables, showing the results and a bar graph representing the data. 
+
+Users generated from different scenarios as well as their results are found in the remaining spreadsheets.
